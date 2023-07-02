@@ -1,6 +1,17 @@
-title: Minimal theme
-logo: C:/Downloads/012.jpg
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
+title: <p align="center"> Arkja Bajpai </p>
+logo: /assets/img/logo.png
+
+description:
+  <p align="center">
+  <a href="D:/Profile/Arkja Bajpai SSE.docx">Resume</a> |
+  <a href="https://www.linkedin.com/in/arkja-bajpai-397808a6/">LinkedIn</a> |
+  <a href="https://github.com/Arkja1">GitHub</a>
+  
+  <br>   
+    Will add details
+  <br>
+  </p>
+
+
+
 theme: jekyll-theme-minimal
